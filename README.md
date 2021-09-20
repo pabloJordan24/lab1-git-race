@@ -14,8 +14,6 @@ Some ideas for obtaining a :gift: if you are the first that:
 User name | NIA | CI |Score
 ----------|-----|----------|-----
 [UNIZAR-30246-WebEngineering](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race) |30246 | [![Build Status](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/UNIZAR-30246-WebEngineering/lab1-git-race/actions/workflows/ci.yml)
-Pablo Jordán | 757166 | [![Build Status](https://github.com/pabloJordan24/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/pabloJordan24/lab1-git-race/actions/workflows/ci.yml)
-
 [Isaac Velasco Calvo](https://github.com/pkmniako/lab1-git-race) | 758986 | [![Build Status](https://github.com/pkmniako/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/pkmniako/lab1-git-race/actions/workflows/ci.yml)
 [Jaime Conchello](https://github.com/jaimecb/lab1-git-race) | 776012 | [![Build Status](https://github.com/jaimecb/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/jaimecb/lab1-git-race/actions/workflows/ci.yml)
 [Mateo Vallejo Domínguez](https://github.com/CursedR3N/lab1-git-race) |780029 | [![Build Status](https://github.com/CursedR3N/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/CursedR3N/lab1-git-race/actions/workflows/ci.yml)
@@ -24,3 +22,4 @@ Pablo Jordán | 757166 | [![Build Status](https://github.com/pabloJordan24/lab1-
 [Jorge Laguna](https://github.com/topopelon/lab1-git-race) | 735550 | [![Build Status](https://github.com/topopelon/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/topopelon/lab1-git-race/actions/workflows/ci.yml) | half :gift:
 [Carlos Navarro Gascón](https://github.com/Lulay7/lab1-git-race) |780180 | [![Build Status](https://github.com/Lulay7/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/Lulay7/lab1-git-race/actions/workflows/ci.yml)
 [German Garces](https://github.com/fntkg/lab1-git-race)| 757024 | [![Build Status](https://github.com/fntkg/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/fntkg/lab1-git-race/actions/workflows/ci.yml) | :gift: candidate
+[Isaac Velasco Calvo](https://github.com/pabloJordan24/lab1-git-race) | 757166 | [![Build Status](https://github.com/pabloJordan24/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/pabloJordan24/lab1-git-race/actions/workflows/ci.yml)
